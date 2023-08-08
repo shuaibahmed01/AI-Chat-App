@@ -20,6 +20,20 @@ This application provides a fully functional chat platform where users can not o
    git clone https://github.com/shuaibahmed01/AI-Chat-App
    cd AI-Chat-App
    ```
-
+2. ** Install the necessary dependencies: **
+  ```shell
+   npm install
+   ```
+3. ** Create an env file with the necessary keys: **
+   ```shell
+   OPENAI_API_KEY=your-api-key-here
+   PROJECT_ID=chat-engine-project-id
+   PROJECT_KEY=chat-engine-project-key
+   ...
+   ```
+4. ** Start the development server: **
+   ```shell
+   npm start
+   ```
 
 
