@@ -13,7 +13,13 @@ This application provides a fully functional chat platform where users can not o
 5. Seamless navigation with React Router.
 6. AI-powered chat capabilities with OpenAI's ChatGPT integration.
 
-## Installation
+## Quick Start
+
+1. ** Clone the repository: **
+  ```shell
+   git clone https://github.com/shuaibahmed01/AI-Chat-App
+   cd AI-Chat-App
+   ```
 
 
 
